@@ -3,6 +3,10 @@
 |----------|
 |[![PyPI](https://img.shields.io/pypi/pyversions/Balert.svg)](https://pypi.python.org/pypi/Balert)|
 
+##### Dependencies
+ * [PyAudio](http://people.csail.mit.edu/hubert/pyaudio/#downloads)
+ * [SpeechRecognition](https://pypi.python.org/pypi/SpeechRecognition/)
+
 ###### Run valid commands by saying it
 
 Note: To run any custom commands make sure that the parent directory of the file is added to the `$PATH`
